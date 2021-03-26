@@ -1,0 +1,17 @@
+13:08:01.144  DEBUG logger - Start find element between 0 and 8 elements
+13:08:01.148  DEBUG logger - Start find element between 5 and 8 elements
+13:08:01.148  DEBUG logger - Start find element between 7 and 8 elements
+13:08:01.149  DEBUG logger - Start find element between 8 and 8 elements
+13:08:01.149  DEBUG logger - Element found
+13:08:59.153  DEBUG logger - Start find element between 0 and 8 elements
+13:08:59.161  DEBUG logger - Start find element between 0 and 4 elements
+13:08:59.161  DEBUG logger - Start find element between 0 and 2 elements
+13:08:59.161  DEBUG logger - Start find element between 0 and 1 elements
+13:08:59.162  DEBUG logger - Start find element between 1 and 1 elements
+13:08:59.163  DEBUG logger - Element found
+13:11:53.612  DEBUG logger - Start find element between 0 and 8 elements
+13:11:53.626  DEBUG logger - Start find element between 0 and 4 elements
+13:11:53.626  DEBUG logger - Start find element between 0 and 2 elements
+13:11:53.626  DEBUG logger - Start find element between 0 and 1 elements
+13:11:53.626  DEBUG logger - Start find element between 1 and 1 elements
+13:11:53.627  DEBUG logger - Element found
